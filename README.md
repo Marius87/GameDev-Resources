@@ -310,6 +310,7 @@ Meta
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/) - Game Development Stack Exchange :free:
 * [GameDev](http://www.gamedev.net/page/index.html) - Game Development Community :free:
 * [GameDevs.org](http://gamedevs.org/) -  various topics relating to game development :free:
+* [indiexpo](http://www.indiexpo.net/) -  it allows thousands of people to discover, watch and share indie games :free:
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
